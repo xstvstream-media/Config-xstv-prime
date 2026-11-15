@@ -2,6 +2,11 @@
   "url": "http://meucanal.xyz:8880",
   "user": "001812146",
   "pass": "662101633",
-  "aviso": "Atualize seu aplicativo para continuar.",
-  "link_atualizacao": "https://www.google.com"
+  "aviso": "",
+  "link_atualizacao": "",
+  "mensagem_rapida": "",
+  "manutencao": "false",
+  "bloqueio_adulto": "false",
+  "bloqueio_geral": "false",
+  "mensagem_bloqueio": ""
 }
